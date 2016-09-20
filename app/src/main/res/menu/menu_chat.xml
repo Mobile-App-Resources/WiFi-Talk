@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.esb_pc.udp.ChatActivity">
+    <item android:id="@+id/speakerOn"
+          android:title="Turn Speaker On"
+          android:showAsAction="never"/>
+      <item android:id="@+id/speakerOff"
+          android:title="Turn Speaker Off"
+          android:showAsAction="never"/>
+</menu>
